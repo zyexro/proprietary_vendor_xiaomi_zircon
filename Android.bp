@@ -27132,7 +27132,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libsink",
+    name: "libsink_xiaomi",
+    stem: "libsink",
     owner: "xiaomi",
     strip: {
         none: true,
