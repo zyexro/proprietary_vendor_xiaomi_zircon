@@ -1005,6 +1005,7 @@ PRODUCT_PACKAGES += \
     libBasicModule \
     libHISCppAlgos \
     libJpgEncPipe \
+    libMiPhotoFilter \
     libMtkSpeechEnh \
     libOpenCL \
     libSQLiteModule_VER_ALL \
