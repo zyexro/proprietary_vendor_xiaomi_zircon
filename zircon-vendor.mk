@@ -903,6 +903,7 @@ PRODUCT_PACKAGES += \
     libion_mtk \
     libion_ulit \
     libladder \
+    libmisight \
     libmml \
     libpqframework \
     libpqhdrmetaparser \
