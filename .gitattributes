@@ -1,0 +1,2 @@
+* -text
+proprietary/vendor/lib64/libaibc_tuning.so filter=lfs diff=lfs merge=lfs -text
