@@ -1635,7 +1635,6 @@ PRODUCT_PACKAGES += \
     zirconov16a1qsunny_mipi_raw_tuning \
     zircons5k3p9sunny_mipi_raw_tuning \
     zircons5khp3sunny_mipi_raw_tuning \
-    libstagefright_softomx_plugin \
     libvpx \
     libmockdrmcryptoplugin \
     APUWareApusysAidlServer \
