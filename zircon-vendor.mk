@@ -1635,11 +1635,9 @@ PRODUCT_PACKAGES += \
     zirconov16a1qsunny_mipi_raw_tuning \
     zircons5k3p9sunny_mipi_raw_tuning \
     zircons5khp3sunny_mipi_raw_tuning \
-    libvpx \
     libmockdrmcryptoplugin \
     APUWareApusysAidlServer \
     APUWareUtilsServer \
-    android.frameworks.displayservice@1.0 \
     com.xiaomi.plugin.arcsoftsr \
     com.xiaomi.plugin.capbokeh \
     com.xiaomi.plugin.caphdr \
@@ -2084,7 +2082,6 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.cit.wifi@1.0 \
     vendor.xiaomi.hardware.bgservice@1.0 \
     vendor.xiaomi.hardware.blackbox-V1-ndk \
-    vendor.xiaomi.hardware.fingerprintextension@1.0 \
     vendor.xiaomi.hardware.mimd@1.0 \
     vendor.xiaomi.hardware.otrpagent@2.0-impl \
     vendor.xiaomi.hardware.otrpagent@2.0 \
@@ -2162,13 +2159,9 @@ PRODUCT_PACKAGES += \
     vendor.pixelworks.hardware.feature@1.0 \
     vendor.pixelworks.hardware.feature@1.1 \
     vendor.xiaomi.hardware.fx.tunnel@1.0 \
-    vendor.xiaomi.hardware.mfidoca@1.0 \
     vendor.xiaomi.hardware.mikeybag-impl \
     vendor.xiaomi.hardware.misauth-V1-ndk \
-    vendor.xiaomi.hardware.mlipay@1.0 \
-    vendor.xiaomi.hardware.mlipay@1.1 \
     vendor.xiaomi.hardware.mrm-V1-ndk \
-    vendor.xiaomi.hardware.mtdservice@1.0 \
     vendor.xiaomi.hardware.soterservice@1.0 \
     vendor.xiaomi.hardware.tidaservice@1.0 \
     vendor.xiaomi.hardware.tidaservice@1.1 \
@@ -2183,8 +2176,6 @@ PRODUCT_PACKAGES += \
     libarcsoft_portrait_lighting \
     libarcsoft_portrait_lighting_c \
     libmt_mitee@1.3 \
-    vendor.xiaomi.hardware.mtdservice@1.1 \
-    vendor.xiaomi.hardware.mtdservice@1.2 \
     vendor.xiaomi.hardware.mtdservice@1.3 \
     GoogleNetworkStackResOverlay \
     GoogleTetheringResOverlay \
